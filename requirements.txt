@@ -1,5 +1,5 @@
 streamlit
-rdkit-pypi --pre
+rdkit-pypi
 mordred
 pandas
 matplotlib
