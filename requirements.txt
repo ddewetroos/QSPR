@@ -1,6 +1,0 @@
-streamlit
-rdkit-pypi
-mordred
-pandas
-matplotlib
-statsmodels
